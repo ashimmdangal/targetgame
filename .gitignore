@@ -1,0 +1,42 @@
+# Unreal Engine
+
+# Build results
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+
+# Compiled files
+*.dll
+*.exe
+*.obj
+*.pdb
+*.lib
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Packaging output (IMPORTANT)
+*.zip
