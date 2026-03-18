@@ -53,7 +53,7 @@ Target Hunt is an **FPP (First Person Perspective)** game where the player is eq
 
 1. Download the `.zip` file from Releases
 2. Extract it
-3. Run `TargetGame.exe`
+3. Run `Itsmygame.exe`
 4. Enjoy the game
 
 ---
@@ -67,6 +67,45 @@ Target Hunt is an **FPP (First Person Perspective)** game where the player is eq
 * 💻 Platform: Windows
 
 ---
+
+## 🖥️ System Requirements
+
+### 💻 Hardware Requirements
+
+| Component | Minimum             | Recommended                                     |
+| --------- | ------------------- | ----------------------------------------------- |
+| CPU       | Intel i3 / Ryzen 3  | Intel i5 / Ryzen 5 or higher                    |
+| RAM       | 4 GB                | 8 GB or more                                    |
+| GPU       | Integrated Graphics | Dedicated GPU (GTX 1050 / equivalent or better) |
+| Storage   | 1 GB free space     | 2+ GB free space                                |
+| Display   | 1366 × 768          | 1920 × 1080 (Full HD)                           |
+
+---
+
+### 🧰 Software Requirements
+
+* **Operating System:** Windows 10 / Windows 11 (64-bit)
+* **Architecture:** 64-bit system required
+* **Graphics Drivers:** Updated GPU drivers recommended
+* **Additional Software:**
+
+  * No additional installation required (standalone executable)
+
+---
+
+### ⚙️ Development Requirements (for running project source)
+
+* Unreal Engine (version you used, e.g. **UE 5.x**)
+* Blender (for model editing, optional)
+* Windows OS (for building and testing)
+
+---
+
+### 🎮 Performance Notes
+
+* Game runs at approximately **60 FPS** on standard systems
+* Optimized for **1920 × 1080 resolution**
+* Performance may vary depending on system configuration
 
 ## 🧪 Game Logic
 
